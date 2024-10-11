@@ -1,0 +1,3 @@
+/home/kami/Documents/C++/torchPolynomial/cmake-build-debug/CMakeFiles/torchPolynomial.dir
+/home/kami/Documents/C++/torchPolynomial/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kami/Documents/C++/torchPolynomial/cmake-build-debug/CMakeFiles/rebuild_cache.dir
